@@ -1,0 +1,16 @@
+.bloc-container {
+  display: grid;
+  text-align: center;
+  grid-gap: 10px;
+  grid-template-rows: repeat(3, 200px);
+  grid-template-columns: 100px 200px;
+  }
+  
+  .bloc {
+    padding: 0.5em;
+    background-color: rgb(205,133,62);
+    border: 2px solid red;
+    
+    
+  }
+  

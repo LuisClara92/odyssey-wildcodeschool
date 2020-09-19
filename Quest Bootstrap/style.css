@@ -1,0 +1,22 @@
+.col-1{
+    border-style: solid;
+    border-color: #b5b5b5;
+    border-width: 1px;
+    padding-top: 8.5%;
+    width: 100%;
+  }
+  
+  #gray{
+    background-color: #333333;
+  }
+  
+  #orange{
+    background-color: #ff7f2a;
+  }
+  
+  #yellow{
+    background-color: #ffcc00;
+  }
+  #black{
+    background-color: #000;
+  }
